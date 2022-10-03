@@ -2,15 +2,39 @@
 
 The web is a vast place with many eyes on it at any given moment. Many companies work within the world wide web, utilizing systems with many users. Be it a website as simple as Facebook, a work email, or highly sensitive information; you want that login secured by a strong password. Unfortunately, many users fall into the trap of using the same password across multiple sites and systems. In order to combat this, I've created a password generator that creates a strong password with a simple click.
 
+---
+
 ## Usage
 
-## User Story
+* When first opening the page, the user is presented with several prompts to accept or deny.
 
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
+-A desired length between 8 and 128 characters.
+
+-To confirm or deny wanting lowercase, uppercase, numbers, and or special characters generated in the password.
+
+* User clicks the "Generate Password" Button 
+
+* Should all prompts be answered, a password will be generated with the appropriate user inputed choices.
+
+* The password is displayed on the page.
+
+---
+
+## Programs
+
+* Created with starter code provided by University of Arizona Bootcamp Instructors
+* Made with ❤ by Jhean "River" Laxamana
+
+---
+
+
+
+
+
+
+
+
+
 
 ## Acceptance Criteria
 
